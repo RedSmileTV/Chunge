@@ -6,7 +6,8 @@ public class Main {
     public static void main(String[] args) {
         //Main.menu();
         //GUI.gui();
-        new GUI();
+        //new GUI();
+        new GUI2();
 
     }
     public static void menu() {
